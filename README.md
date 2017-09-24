@@ -1,27 +1,44 @@
 ## Canace Wong
 
-I am a full-stack software developer in training with Makers Academy, Europe’s leading developer bootcamp. Before joining Makers, I worked in financial and corporate communications, starting my career at an award winning city PR firm for growth companies, where I left as associate partner to assume the role of Head of Communications at a London and Hong Kong based VC firm.    
+I am a full-stack software developer in training with Makers Academy, Europe’s leading developer bootcamp. Before joining Makers, I worked in financial and corporate communications, starting my career at an award winning city PR firm for growth companies, where I left as associate partner to assume the role of Head of Communications at a London and Hong Kong based VC firm.  
+
 In my native Hong Kong, I have worked across a range of media organisations, including as South Asia correspondent for Euromoney Institutional Investor, and a short stint at South China Morning Post news and city desks.  
+
 I will be available for work as a developer in January 2018.  I look forward to  bringing your organisation the industry best practice I acquired at Makers, alongside my client service capability, cross-cultural sensitivities, and commercial exposure towards growth companies, developed throughout my career.
 
 ## Skills
 
-#### This Skill
+#### Client services/ account management 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+•	First point of contact with various client accounts at a city PR agency for growth companies. 
 
-- Experience
-- Achievements
-- Evidence
+•	At one point serving thirteen client accounts at a time for their financial and corporate communications activities.
 
-#### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Crisis management 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+•	First point of contact for delisting companies from the London Stock Exchange, communicating directly with national journalists and investors. 
+
+
+#### Corporate and brand/product positioning 
+
+•	Four years of experience in financial and corporate communications. 
+
+•	Product positioning efforts led to international coverage (UK, China, and Hong Kong news) of a natural remedy product that is coming to market. 
+
+
+#### Commercial contract negotiation 
+
+•	Managed an annual communications budget of £450,000 while Head of Communications.   
+
+•	Agency selection and negotiating contracts of up to £200,000 per annum. 
+
+•	First point of contact/ driver in negotiating scope of work/ costs of various legal contracts.
+
+
+#### Professional networks  
+•	Wide pool of contacts with finance houses, financial analysts, professional services firms, and stock exchanges in London, Cyprus, and Denmark for start-ups and growth companies.  
+
 
 ## Education
 

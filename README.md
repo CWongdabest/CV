@@ -1,6 +1,8 @@
-## Your Name
+## Canace Wong
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a full-stack software developer in training with Makers Academy, Europe’s leading developer bootcamp. Before joining Makers, I worked in financial and corporate communications, starting my career at an award winning city PR firm for growth companies, where I left as associate partner to assume the role of Head of Communications at a London and Hong Kong based VC firm.    
+In my native Hong Kong, I have worked across a range of media organisations, including as South Asia correspondent for Euromoney Institutional Investor, and a short stint at South China Morning Post news and city desks.  
+I will be available for work as a developer in January 2018.  I look forward to  bringing your organisation the industry best practice I acquired at Makers, alongside my client service capability, cross-cultural sensitivities, and commercial exposure towards growth companies, developed throughout my career.
 
 ## Skills
 

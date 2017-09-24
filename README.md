@@ -10,38 +10,38 @@ I will be available for work as a developer in January 2018.  I look forward to 
 
 #### Client services/ account management 
 
-•	First point of contact with various client accounts at a city PR agency for growth companies. 
+    •	First point of contact with various client accounts at a city PR agency for growth companies. 
 
-•	At one point serving thirteen client accounts at a time for their financial and corporate communications activities.
+    •	At one point serving thirteen client accounts at a time for their financial and corporate communications activities.
 
 
 #### Crisis management 
 
-•	First point of contact for delisting companies from the London Stock Exchange, communicating directly with national journalists and investors. 
+    •	First point of contact for delisting companies from the London Stock Exchange, communicating directly with national journalists and investors. 
 
 
 #### Corporate and brand/product positioning 
 
-•	Four years of experience in financial and corporate communications. 
+    •	Four years of experience in financial and corporate communications. 
 
-•	Product positioning efforts led to international coverage (UK, China, and Hong Kong news) of a natural remedy product that is coming to market. 
+    •	Product positioning efforts led to international coverage (UK, China, and Hong Kong news) of a natural remedy product that is coming to market. 
 
 
 #### Commercial contract negotiation 
 
-•	Managed an annual communications budget of £450,000 while Head of Communications.   
+    •	Managed an annual communications budget of £450,000 while Head of Communications.   
 
-•	Agency selection and negotiating contracts of up to £200,000 per annum. 
+    •	Agency selection and negotiating contracts of up to £200,000 per annum. 
 
-•	First point of contact/ driver in negotiating scope of work/ costs of various legal contracts.
+    •	First point of contact/ driver in negotiating scope of work/ costs of various legal contracts.
 
 
 #### Professional networks  
-•	Wide pool of contacts with finance houses, financial analysts, professional services firms, and stock exchanges in London, Cyprus, and Denmark for start-ups and growth companies.  
+    •	Wide pool of contacts with finance houses, financial analysts, professional services firms, and stock exchanges in London, Cyprus, and Denmark for start-ups and growth companies.  
 
 
 #### Languages 
-•	Fluent in written and spoken English, Mandarin, and Cantonese Chinese. 
+    •	Fluent in written and spoken English, Mandarin, and Cantonese Chinese. 
 
 ## Education
 
@@ -58,22 +58,22 @@ I will be available for work as a developer in January 2018.  I look forward to 
 
 #### London School of Economics and Political Science (September 2012 to September 2013)
 
-•	Msc in Philosophy and Public Policy 
+    •	Msc in Philosophy and Public Policy 
 
-•	Merit 
+    •	Merit 
 
 #### University of Canterbury, New Zealand (July 2008 to December 2011)  
 
-•	Bsc (Hons) in European Studies and Philosophy 
+    •	Bsc (Hons) in European Studies and Philosophy 
 
-•	First Class Honours 
+    •	First Class Honours 
 
 
 #### Any other qualifications
 
 ## Experience
-
-The Global Group of Companies (2016 September- 2017 May)    
+2016 September- 2017 May
+The Global Group of Companies     
 Head of Communications 
 
 **Company Name** (start_date to end_date)   

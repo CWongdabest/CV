@@ -40,6 +40,9 @@ I will be available for work as a developer in January 2018.  I look forward to 
 •	Wide pool of contacts with finance houses, financial analysts, professional services firms, and stock exchanges in London, Cyprus, and Denmark for start-ups and growth companies.  
 
 
+#### Languages 
+•	Fluent in written and spoken English, Mandarin, and Cantonese Chinese. 
+
 ## Education
 
 #### Makers Academy (start_date to end_date)
@@ -53,17 +56,25 @@ I will be available for work as a developer in January 2018.  I look forward to 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### London School of Economics and Political Science (September 2012 to September 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+•	Msc in Philosophy and Public Policy 
+
+•	Merit 
+
+#### University of Canterbury, New Zealand (July 2008 to December 2011)  
+
+•	Bsc (Hons) in European Studies and Philosophy 
+
+•	First Class Honours 
+
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+The Global Group of Companies (2016 September- 2017 May)    
+Head of Communications 
+
 **Company Name** (start_date to end_date)   
 *Your job title*  
